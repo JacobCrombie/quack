@@ -1,0 +1,10 @@
+REM simple hello world script
+REM open search
+GUI SPACE
+DELAY 2000
+STRING term
+DELAY 1500
+ENTER
+DELAY 1500
+STRING echo "Hello World"
+ENTER
